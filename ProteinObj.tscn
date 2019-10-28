@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://mesh/1gcq_chimerax.dae" type="PackedScene" id=1]
+
+[node name="ProteinObj" index="0" instance=ExtResource( 1 )]
+transform = Transform( 0.430786, 0.253818, 0, -0.253818, 0.430786, 0, 0, 0, 0.5, -13.8897, 4.54063, 0 )
+
+[node name="node_0" parent="." index="2"]
+transform = Transform( 1.77523, -0.921162, 0, 0.921162, 1.77523, 0, 0, 0, 2, 9.71604, 10.8888, 0 )
