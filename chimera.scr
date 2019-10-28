@@ -1,0 +1,10 @@
+import chimera
+import time
+from chimera import runCommand
+runCommand('open /tmp/1AK4_l_u.pdb')
+runCommand('preset apply interactive 2')
+runCommand('preset apply publication 1')
+runCommand('wait 1')
+runCommand('export 1AK4_l_u.dae')
+runCommand('stop')
+
