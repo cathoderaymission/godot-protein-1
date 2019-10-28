@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://mesh/3nir_chimerax.dae" type="PackedScene" id=1]
+
+[sub_resource type="ConcavePolygonShape" id=1]
+
+[node name="Protein" instance=ExtResource( 1 )]
+editor/display_folded = true
+transform = Transform( 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 8.67754, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="." index="5"]
+
+[node name="CollisionShape" type="CollisionShape" parent="." index="6"]
+shape = SubResource( 1 )
