@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=f51Y9LMVRPc&feature=youtu.be
 https://www.youtube.com/watch?v=OCR4Kd2OXeE
 
 # Checkpoitn 3
-https://www.youtube.com/watch?v=hHQlZFO42PU
+https://www.youtube.com/watch?v=bp4dGnyEs8s
 
 # Checkpoint 4
 https://www.youtube.com/watch?v=tI3yEBJK9XE
