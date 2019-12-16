@@ -4,7 +4,7 @@ import numpy as np
 import os
 from chimera import runCommand
 
-file = "/tmp/1CLV_l_b.pdb"
+file = "/tmp/1CLV.pdb"
 fn = os.path.splitext(os.path.basename(file))[0] + ".dae"
 
 # read entire pdb
